@@ -1,0 +1,11 @@
+{
+  "Users":[
+    {
+      "id": 1,
+      "fullname":"Pradit Bunchuea",
+      "email":"a@test.com",
+      "password": "1a2a3a",
+      "gender": "Male"
+    }
+  ]
+}
